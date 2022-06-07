@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/Lographa/projeto_parse#readme",
   "dependencies": {
-    "express": "^4.17.2",
+    "discord.js": "^13.6.0",
+    "express": "^4.17.3",
     "puppeteer": "^13.1.2"
   },
   "devDependencies": {
